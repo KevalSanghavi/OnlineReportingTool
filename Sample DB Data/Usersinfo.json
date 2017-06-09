@@ -1,0 +1,70 @@
+{
+	userid : "<userid>",
+	isadmin : "Y",
+	countyname : "AllCounties",
+	firstname : "<firstname>",
+	lastname : "<lastname>"
+}
+{
+	userid : "<userid>",
+	isadmin : "Y",
+	countyname : "AllCounties",
+	firstname : "<firstname>",
+	lastname : "<lastname>"
+}
+{
+	userid : "<userid>",
+	isadmin : "Y",
+	countyname : "AllCounties",
+	firstname : "<firstname>",
+	lastname : "<lastname>"
+}
+{
+	userid : "<userid>",
+	isadmin : "N",
+	countyname : "Barbour",
+	firstname : "<firstname>",
+	lastname : "<lastname>"
+}
+{
+	userid : "<userid>",
+	isadmin : "N",
+	countyname : "Berkeley",
+	firstname : "<firstname>",
+	lastname : "<lastname>"
+}
+{
+	userid : "<userid>",
+	isadmin : "N",
+	countyname : "Berkeley",
+	firstname : "<firstname>",
+	lastname : "<lastname>"
+}
+{
+	userid : "<userid>",
+	isadmin : "N",
+	countyname : "Boone",
+	firstname : "<firstname>",
+	lastname : "<lastname>"
+}
+{
+	userid : "<userid>",
+	isadmin : "N",
+	countyname : "Braxton",
+	firstname : "<firstname>",
+	lastname : "<lastname>"
+}
+{
+	userid : "<userid>",
+	isadmin : "N",
+	countyname : "Brooke",
+	firstname : "<firstname>",
+	lastname : "<lastname>"
+}
+{
+	userid : "<userid>",
+	isadmin : "N",
+	countyname : "Cabell",
+	firstname : "<firstname>",
+	lastname : "<lastname>"
+}

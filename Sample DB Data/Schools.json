@@ -1,0 +1,1464 @@
+{
+	countyname : "Barbour",
+	schoolname : "Philip Barbour High School Complex",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2014-15",
+			graduationdate : new Date("2015-05-10T00:00:00Z")
+		},
+		{
+			academicyear : "2015-16",
+			graduationdate : new Date("2016-05-15T00:00:00Z")
+		},
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Berkeley",
+	schoolname : "Hedgesville High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2014-15",
+			graduationdate : new Date("2015-05-25T00:00:00Z")
+		},
+		{
+			academicyear : "2015-16",
+			graduationdate : new Date("2016-05-20T00:00:00Z")
+		},
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-31T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Berkeley",
+	schoolname : "Martinsburg High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2014-15",
+			graduationdate : new Date("2015-05-20T00:00:00Z")
+		},
+		{
+			academicyear : "2015-16",
+			graduationdate : new Date("2016-05-23T00:00:00Z")
+		},
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-30T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Berkeley",
+	schoolname : "Musselman High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-01T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Berkeley",
+	schoolname : "Spring Mills High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-25T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Boone",
+	schoolname : "Scott High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-28T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Boone",
+	schoolname : "Sherman High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-25T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Boone",
+	schoolname : "Van Junior/Senior High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Braxton",
+	schoolname : "Braxton County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Brooke",
+	schoolname : "Brooke High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-25T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Cabell",
+	schoolname : "Cabell Midland High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-17T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Cabell",
+	schoolname : "Huntington High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-17T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Calhoun",
+	schoolname : "Calhoun Middle/High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Clay",
+	schoolname : "Clay County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-27T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Doddridge",
+	schoolname : "Doddridge County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-21T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Fayette",
+	schoolname : "Fayetteville High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-17T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Fayette",
+	schoolname : "Meadow Bridge High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-13T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Fayette",
+	schoolname : "Midland Trail High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-12T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Fayette",
+	schoolname : "Oak Hill High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-12T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Fayette",
+	schoolname : "Valley High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-13T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Gilmer",
+	schoolname : "Gilmer County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-25T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Grant",
+	schoolname : "Union Educational Complex",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-27T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Grant",
+	schoolname : "Petersburg High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Greenbrier",
+	schoolname : "Greenbrier East High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Greenbrier",
+	schoolname : "Greenbrier West High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-27T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Hampshire",
+	schoolname : "Hampshire Senior High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-02T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Hancock",
+	schoolname : "Oak Glen High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-31T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Hancock",
+	schoolname : "Weir High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-30T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Hardy",
+	schoolname : "East Hardy High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Hardy",
+	schoolname : "Moorefield High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-27T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Harrison",
+	schoolname : "Bridgeport High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-27T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Harrison",
+	schoolname : "Liberty High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Harrison",
+	schoolname : "Lincoln High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-27T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Harrison",
+	schoolname : "South Harrison High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Harrison",
+	schoolname : "Robert C. Byrd High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-25T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Harrison",
+	schoolname : "United High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-22T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Jackson",
+	schoolname : "Ravenswood High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Jackson",
+	schoolname : "Ripley High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Jefferson",
+	schoolname : "Jefferson High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-20T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Jefferson",
+	schoolname : "Washington High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-20T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Kanawha",
+	schoolname : "George Washington High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Kanawha",
+	schoolname : "Herbert Hoover High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-18T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Kanawha",
+	schoolname : "Nitro High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-20T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Kanawha",
+	schoolname : "Saint Albans High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-20T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Kanawha",
+	schoolname : "Sissonville High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-17T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Kanawha",
+	schoolname : "South Charleston High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-17T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Kanawha",
+	schoolname : "Capital High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-18T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Kanawha",
+	schoolname : "Riverside High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Lewis",
+	schoolname : "Lewis County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Lincoln",
+	schoolname : "Lincoln County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Logan",
+	schoolname : "Chapmanville Regional High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Logan",
+	schoolname : "Logan Senior High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Logan",
+	schoolname : "Man Senior High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-25T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Marion",
+	schoolname : "East Fairmont High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Marion",
+	schoolname : "Fairmont Senior High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Marion",
+	schoolname : "North Marion High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Marshall",
+	schoolname : "Cameron High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-22T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Marshall",
+	schoolname : "John Marshall High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-23T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Mason",
+	schoolname : "Hannan High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-03T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Mason",
+	schoolname : "Point Pleasant Junior/Senior High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-03T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Mason",
+	schoolname : "Wahama High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-02T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "McDowell",
+	schoolname : "River View High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "McDowell",
+	schoolname : "Mount View High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-20T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Mercer",
+	schoolname : "Bluefield High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Mercer",
+	schoolname : "Montcalm High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Mercer",
+	schoolname : "Princeton Senior High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Mercer",
+	schoolname : "Pikeview High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Mineral",
+	schoolname : "Frankfort High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-04T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Mineral",
+	schoolname : "Keyser High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-04T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Mingo",
+	schoolname : "Tug Valley High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-13T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Mingo",
+	schoolname : "Mingo Central Comprehensive High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-12T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Monongalia",
+	schoolname : "Clay-Battelle High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Monongalia",
+	schoolname : "Morgantown High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-20T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Monongalia",
+	schoolname : "University High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Monroe",
+	schoolname : "James Monroe High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Morgan",
+	schoolname : "Berkeley Springs High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-25T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Morgan",
+	schoolname : "Paw Paw High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-25T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Nicholas",
+	schoolname : "Nicholas County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-21T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Nicholas",
+	schoolname : "Richwood High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Ohio",
+	schoolname : "Wheeling Park High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-21T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Pendleton",
+	schoolname : "Pendleton County Middle/High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-27T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Pleasants",
+	schoolname : "St Marys High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-28T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Pocahontas",
+	schoolname : "Pocahontas County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-27T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Preston",
+	schoolname : "Preston High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Putnam",
+	schoolname : "Buffalo High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-30T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Putnam",
+	schoolname : "Hurricane High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-02T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Putnam",
+	schoolname : "Poca High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-31T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Putnam",
+	schoolname : "Winfield High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-01T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Raleigh",
+	schoolname : "Independence High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-20T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Raleigh",
+	schoolname : "Liberty High",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-20T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Raleigh",
+	schoolname : "Shady Spring High",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Raleigh",
+	schoolname : "Woodrow Wilson High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-20T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Randolph",
+	schoolname : "Harman Elementary/High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-31T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Randolph",
+	schoolname : "Pickens Elementary/High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-27T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Randolph",
+	schoolname : "Tygarts Valley Middle/High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-27T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Randolph",
+	schoolname : "Elkins High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Ritchie",
+	schoolname : "Ritchie County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-21T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Roane",
+	schoolname : "Roane County High",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Summers",
+	schoolname : "Summers County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Taylor",
+	schoolname : "Grafton High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-30T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Tucker",
+	schoolname : "Tucker County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-25T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Tyler",
+	schoolname : "Tyler Consolidated High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-18T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Upshur",
+	schoolname : "Buckhannon Upshur High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wayne",
+	schoolname : "Wayne High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wayne",
+	schoolname : "Tolsia High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-22T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wayne",
+	schoolname : "Spring Valley High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-23T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Webster",
+	schoolname : "Webster County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-02T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wetzel",
+	schoolname : "Hundred High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-27T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wetzel",
+	schoolname : "Magnolia High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-25T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wetzel",
+	schoolname : "Paden City High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-28T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wetzel",
+	schoolname : "Valley High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-26T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wirt",
+	schoolname : "Wirt County High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-19T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wood",
+	schoolname : "Parkersburg High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-23T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wood",
+	schoolname : "Parkersburg South High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-22T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wood",
+	schoolname : "Williamstown High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-25T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wyoming",
+	schoolname : "Wyoming County East High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2014-15",
+			graduationdate : new Date("2015-06-07T00:00:00Z")
+		},
+		{
+			academicyear : "2015-16",
+			graduationdate : new Date("2016-06-03T00:00:00Z")
+		},
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-04T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "Wyoming",
+	schoolname : "Westside High School",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2014-15",
+			graduationdate : new Date("2015-06-06T00:00:00Z")
+		},
+		{
+			academicyear : "2015-16",
+			graduationdate : new Date("2016-06-02T00:00:00Z")
+		},
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-06-04T00:00:00Z")
+		}
+	]
+}
+{
+	countyname : "WVSDB",
+	schoolname : "West Virginia Schools for the Deaf and the Blind (WVSDB)",
+	isactive : "Y",
+	graduationinfo : 
+	[
+		{
+			academicyear : "2014-15",
+			graduationdate : new Date("2015-05-08T00:00:00Z")
+		},
+		{
+			academicyear : "2015-16",
+			graduationdate : new Date("2016-05-12T00:00:00Z")
+		},
+		{
+			academicyear : "2016-17",
+			graduationdate : new Date("2017-05-04T00:00:00Z")
+		}
+	]
+}

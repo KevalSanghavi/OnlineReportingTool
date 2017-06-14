@@ -1,9 +1,9 @@
 
 ### Description
 
-This is a database driven web application for the West Virginia Department of Education (WVDE) that allows all counties of WV to submit graduation dates of different schools and allows the application admin to be able to generate various dynamic reports automatically. The admin is also able to manage all users of all counties, and manage all schools and counties in WV.
+This is a database driven web application for the West Virginia Department of Education (WVDE) which enables all counties of WV to submit graduation dates of all schools online to the department of education and enables the administration to generate various dynamic reports automatically. The application admins can also manage all users, all schools and counties.
 The application is implemented by using the MEAN stack (MongoDB, Express, Angular 2, Node.js) – one of the popular and latest web technologies stack.
-The application can be extended to submit all the important dates in an academic year of all the schools.
+The application can be easily extended to submit all the important dates in an academic year of all the schools.
 
 ### Install Dependencies
 
